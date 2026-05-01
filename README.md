@@ -1,6 +1,6 @@
 # Employee Attrition Analysis
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Tableau  
-**Dataset:** IBM HR Analytics Dataset — 1,470 employees, 35 features  
+**Dataset:** [IBM HR Analytics Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) — 1,470 employees, 35 features
 **Domain:** HR Analytics | Consulting
 
 ## Objective
