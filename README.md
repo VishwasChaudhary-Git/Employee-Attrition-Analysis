@@ -31,6 +31,7 @@ their first year
 learning opportunities matter more than compensation for this group
 
 ## Project Structure
+```
 01-Employee-Attrition/
 ├── data/
 │   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
@@ -38,6 +39,7 @@ learning opportunities matter more than compensation for this group
 │   ├── attrition_analysis.ipynb
 │   └── chart1-6 (PNG files)
 └── README.md
+```
 
 ## Charts
 ![Attrition by Department](notebooks/chart1_dept_attrition.png)
